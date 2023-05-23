@@ -1,0 +1,11 @@
+main.c:128:5:main	1
+main.c:225:6:SystemClock_Config	3
+main.c:273:13:MX_USART2_UART_Init	2
+main.c:306:13:MX_GPIO_Init	1
+main.c:349:6:StartDefaultTask	1
+main.c:367:6:StartTaskA	3
+main.c:412:6:StartTaskB	3
+main.c:457:6:StartTaskC	3
+main.c:502:6:StartPrintTask	4
+main.c:555:6:HAL_TIM_PeriodElapsedCallback	2
+main.c:572:6:Error_Handler	1
